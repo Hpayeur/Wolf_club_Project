@@ -33,6 +33,34 @@ header h1 {
 .banner .welcome span {
   font-size: 1.4em;
 }
+nav {
+  background: #86a6cc;
+  padding: 15px;
+  position: sticky;
+  top: 106px;
+  z-index: 1;
+}
+nav ul {
+  white-space: nowrap;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+nav li {
+  width: 30%;
+  display: inline-block;
+  font-size: 26px;
+}
+nav li a {
+  text-decoration: none;
+  color: #20436e;
+}
+nav li a:hover {
+  text-decoration: underline;
+}
+nav li a.join {
+  color: #20436e;
+}
 footer {
   background: #384453;
   color: #607da0;
