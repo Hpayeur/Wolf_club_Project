@@ -1,12 +1,19 @@
 header {
   background-color: #384453;
-  padding: 10px;
+  padding: 5px;
   text-align: center;
   position: fixed;
   width: 100%;
   top: 0;
   left: 0;
   z-index: 1;
+}
+header h1 {
+  color: #607da0;
+  border: 6px solid white;
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 36px;
 }
 .banner {
   position: relative;
@@ -17,9 +24,9 @@ header {
 .banner .welcome {
   background: #384453;
   color: #607da0;
-  padding: 15px;
-  font-size: 45px;
+  padding: 10px;
+  font-size: 35px;
   position: absolute;
   left: 0;
-  top: 30%;
+  top: 40%;
 }
