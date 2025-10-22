@@ -33,3 +33,12 @@ header h1 {
 .banner .welcome span {
   font-size: 1.4em;
 }
+footer {
+  background: #384453;
+  color: #607da0;
+  padding: 10px;
+  text-align: center;
+}
+footer a {
+  color: #95d7ff;
+}
