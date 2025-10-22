@@ -1,3 +1,15 @@
 .banner {
   position: relative;
 }
+.banner {
+  max-width: 100%;
+}
+.banner .welcome {
+  background: #384453;
+  color: #607da0;
+  padding: 15px;
+  font-size: 45px;
+  position: absolute;
+  left: 0;
+  top: 30%;
+}
