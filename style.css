@@ -30,3 +30,6 @@ header h1 {
   left: 0;
   top: 40%;
 }
+.banner .welcome span {
+  font-size: 1.4em;
+}
