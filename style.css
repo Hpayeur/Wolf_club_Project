@@ -61,6 +61,62 @@ nav li a:hover {
 nav li a.join {
   color: #20436e;
 }
+main {
+  max-width: 100%;
+  width: 1200px;
+  margin: 80px auto;
+  padding: 0 40px;
+  box-sizing: border-box;
+}
+article h3 {
+  color: #123d72;
+  text-align: center;
+  font-size: 40px;
+}
+article p {
+  line-height: 2em;
+  color: #275a99;
+}
+article p::first-line {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.images {
+  text-align: center;
+  margin: 45px 0;
+  white-space: nowrap;
+}
+.images li {
+  display: inline-block;
+  list-style-type: none;
+  width: 25%;
+  margin: 20px 5%;
+  position: relative;
+}
+.images li:hover {
+  top: -4px;
+}
+.images li img {
+  max-width: 100%;
+}
+.images2 {
+  text-align: center;
+  margin: 45px 0;
+  white-space: nowrap;
+}
+.images2 li {
+  display: inline-block;
+  list-style-type: none;
+  width: 25%;
+  margin: 20px 5%;
+  position: relative;
+}
+.images2 li:hover {
+  top: -4px;
+}
+.images2 li img {
+  max-width: 100%;
+}
 footer {
   background: #384453;
   color: #607da0;
