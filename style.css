@@ -158,12 +158,12 @@ footer a {
   color: #95d7ff;
 }
 .cards {
-  display: flex;
+  display: inline-block;
   justify-content: flex-start;
   align-items: flex-start;
-  gap: 1rem;
+  gap: 2.5rem;
   flex-wrap: wrap;
-  padding: 1rem;
+  padding: 4rem;
   font-size: 1.2em;
 }
 
