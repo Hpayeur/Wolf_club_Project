@@ -66,6 +66,15 @@ header h1 {
 .banner .news span {
   font-size: 1.2em;
 }
+.banner .about {
+  background: #163a46;
+  color: #427e8f;
+  padding: 5px;
+  font-size: 40px;
+  position: absolute;
+  left: 0;
+  top: 40%;
+}
 nav {
   background: #86a6cc;
   padding: 15px;
