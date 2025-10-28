@@ -109,10 +109,8 @@ article h3 {
 article p {
   line-height: 2em;
   color: #275a99;
-}
-article p::first-line {
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.2 em;
 }
 .images {
   text-align: center;
