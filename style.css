@@ -33,6 +33,18 @@ header h1 {
 .banner .welcome span {
   font-size: 1.4em;
 }
+.banner .Facts {
+  background: #1c385f;
+  color: #42b3b3;
+  padding: 5px;
+  font-size: 30px;
+  position: absolute;
+  left: 0;
+  top: 40%;
+}
+.banner .Facts span {
+  font-size: 1.2em;
+}
 nav {
   background: #86a6cc;
   padding: 15px;
