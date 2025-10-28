@@ -194,16 +194,16 @@ footer a {
 }
 
 .card-front {
-  background-color: #6d67aa;
-  color: #1e1861;
+  background-color: #384b64;
+  color: #1c385f;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .card-back {
-  background-color: #aa6767;
-  color: #611818;
+  background-color: #253142;
+  color: #1c385f;
   transform: rotateY(180deg);
   display: flex;
   align-items: center;
