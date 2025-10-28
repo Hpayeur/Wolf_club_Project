@@ -54,6 +54,18 @@ header h1 {
   left: 0;
   top: 40%;
 }
+.banner .news {
+  background: #475d64;
+  color: #427e8f;
+  padding: 5px;
+  font-size: 30px;
+  position: absolute;
+  left: 0;
+  top: 40%;
+}
+.banner .news span {
+  font-size: 1.2em;
+}
 nav {
   background: #86a6cc;
   padding: 15px;
