@@ -68,9 +68,6 @@ main {
   padding: 0 40px;
   box-sizing: border-box;
 }
-nav ul li a .one {
-  background: white;
-}
 article h3 {
   color: #123d72;
   text-align: center;
