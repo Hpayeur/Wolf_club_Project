@@ -164,6 +164,7 @@ footer a {
   gap: 1rem;
   flex-wrap: wrap;
   padding: 1rem;
+  font-size: 1.2em;
 }
 
 .card {
@@ -203,7 +204,7 @@ footer a {
 
 .card-back {
   background-color: #253142;
-  color: #1c385f;
+  color: #386db6;
   transform: rotateY(180deg);
   display: flex;
   align-items: center;
