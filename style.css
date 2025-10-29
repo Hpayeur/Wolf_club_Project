@@ -204,16 +204,16 @@ footer a {
 }
 
 .card-front {
-  background-color: #384b64;
-  color: #1c385f;
+  background-color: #535e6d;
+  color: #9cb7dd;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .card-back {
-  background-color: #253142;
-  color: #386db6;
+  background-color: #546e7a;
+  color: #9cb7dd;
   transform: rotateY(180deg);
   display: flex;
   align-items: center;
